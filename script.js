@@ -1,7 +1,7 @@
 //1st song
 function downloadSongPerabhawesong() {
     // සින්දු ගොනුවේ සබැඳිය
-    const songUrl = 'https://drive.google.com/file/d/1FYOj0YJPv3s6p17A9YrfYTujBzhwvw_4/view?usp=drivesdk';  // ඔබේ සින්දු ගොනුවේ සබැඳිය මෙහි දමන්න
+    const songUrl = 'songs/1.mp3';  // ඔබේ සින්දු ගොනුවේ සබැඳිය මෙහි දමන්න
     
     // temporary <a> link එකක් සාදන්න
 
