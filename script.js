@@ -1,7 +1,7 @@
 //1st song
 function downloadSongPerabhawesong() {
     // සින්දු ගොනුවේ සබැඳිය
-    const songUrl = 'songs/1.mp3';  // ඔබේ සින්දු ගොනුවේ සබැඳිය මෙහි දමන්න
+    const songUrl = 'Malwaram _ Raini Charuka - R_B Cover by Thirathi Amoda(MP3_160K).mp3';  // ඔබේ සින්දු ගොනුවේ සබැඳිය මෙහි දමන්න
     
     // temporary <a> link එකක් සාදන්න
 
