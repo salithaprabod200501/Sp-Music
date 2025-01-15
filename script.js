@@ -35,7 +35,7 @@ function downloadSongMalwaram() {
 
 const link = document.createElement('a');
     link.href = songUrl;
-    link.download = 'Nubata liyanne.mp3';  // ගොනුවේ නම
+    link.download = 'Malwaram _ Raini Charuka - R_B Cover by Thirathi Amoda(MP3_160K).mp3';  // ගොනුවේ නම
     
     // Link එක ක්ලික් කිරීමෙන් බාගත කිරීම සිදු කරයි
     link.click();
