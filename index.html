@@ -221,24 +221,28 @@
             font-size: 12px;
             margin-top: 5px;
         }        
-  @media (max-width: 768px) {
-            .song-item {
-                flex-direction: column;
-            }
+  /* Existing CSS code remains as it is */
 
-            .song-thumb {
-                width: 100%;
-                height: 200px;
-            }
+/* Add this new media query for mobile screens */
+@media (max-width: 768px) {
+    .nav-menu {
+        flex-direction: column;
+        gap: 10px;
+        margin: 0;
+    }
 
-            .alpha-nav {
-                font-size: 14px;
-            }
+    .nav-item {
+        text-align: center;
+        padding: 0.5rem 0;
+    }
 
-            .alpha-nav a {
-                padding: 3px 6px;
-            }
-            }      
+    .login-btn {
+        margin-left: 0;
+        width: 100%;
+    }
+}
+
+        
     </style>
     
 </head>
