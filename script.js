@@ -18,7 +18,7 @@ function playSong(songPath, songTitle) {
 //1st song
 function downloadSongPemPuranaya() {
     // සින්දු ගොනුවේ සබැඳිය
-    const songUrl = 'Songs/Pem Puranaya(පෙම් පුරාණය) - Mihiran Madusanka - Mix By Amila clash Jay(MP3_160K).mp3';  // ඔබේ සින්දු ගොනුවේ සබැඳිය මෙහි දමන්න
+    const songUrl = 'songs/Pem Puranaya(පෙම් පුරාණය) - Mihiran Madusanka - Mix By Amila clash Jay(MP3_160K).mp3';  // ඔබේ සින්දු ගොනුවේ සබැඳිය මෙහි දමන්න
     
     // temporary <a> link එකක් සාදන්න
 
