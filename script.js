@@ -18,7 +18,7 @@ function playSong(songPath, songTitle) {
 //1st song
 function downloadSongNARAMA() {
     // සින්දු ගොනුවේ සබැඳිය
-    const songUrl = 'Songs/NARAMA 2022 Sinhala New Song House Style Remix - Mix By Djz Amila Clash_19-01-25_7.mp3';  // ඔබේ සින්දු ගොනුවේ සබැඳිය මෙහි දමන්න
+    const songUrl = 'songs/NARAMA 2022 Sinhala New Song House Style Remix - Mix By Djz Amila Clash_19-01-25_7.mp3';  // ඔබේ සින්දු ගොනුවේ සබැඳිය මෙහි දමන්න
     
     // temporary <a> link එකක් සාදන්න
 
